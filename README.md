@@ -6,11 +6,9 @@ Présenté par : Hassan Benhzaine
 
 Entreprise : SQLI Rabat
 
-```
-Responsable du stage : Mr. Hicham BENGARAI
+Responsable du stage : Mr. Hicham BENGARAI <br>
 Encadré par : Mr. Adnan Ait El Fatmi
               Mr. Abdellatif Belhadj
-```
 
 Stage effectué entre le 01/09/2021 et 29/10/
 
@@ -22,9 +20,9 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ```
 1 - Présentation du stage
 2 - Présentation de l’entreprise d’accueil
-● Description du groupe SQLI
-● Chiffres Clés de SQLI
-● La répartition du groupe SQLI
+    ● Description du groupe SQLI
+    ● Chiffres Clés de SQLI
+    ● La répartition du groupe SQLI
 ```
 **Chapitre 2: Problématique**
 
