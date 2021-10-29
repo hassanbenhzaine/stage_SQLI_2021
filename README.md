@@ -33,19 +33,19 @@ Stage effectué entre le 01/09/2021 et 29/10/
 
 ```
 1 - Moyens techniques utilisés
-● Outils de développement
-● Technologies web / Front-end
-● Technologies web / Back-end
+    ● Outils de développement
+    ● Technologies web / Front-end
+    ● Technologies web / Back-end
 
 2 - Analyse fonctionnelle et conception
-● Diagramme de classes
-● Architecture de l’application (Back-End)
-● Design Pattern
-● L’architecture de l’application (Front-end)
+    ● Diagramme de classes
+    ● Architecture de l’application (Back-End)
+    ● Design Pattern
+    ● L’architecture de l’application (Front-end)
 
 3 - Gestion et mise en œuvre du projet
-● Tâches du projet
-● Démonstration
+    ● Tâches du projet
+    ● Démonstration
 ```
 
 **Chapitre 4: Bilan des compétences acquis**
@@ -53,15 +53,15 @@ Stage effectué entre le 01/09/2021 et 29/10/
 **1 - AngularJS**
 
 ```
-● Le concept de la route
-● Le concept de service
-● Le service $http
-● Les directives
+    ● Le concept de la route
+    ● Le concept de service
+    ● Le service $http
+    ● Les directives
 ```
 **2 - Spring Boot**
-● L'auto-configuration
-● Annotations
-● Autowiring
+    ● L'auto-configuration
+    ● Annotations
+    ● Autowiring
 
 **Chapitre 5: Webographie et Bibliographie**
 
@@ -109,19 +109,19 @@ de dispositifs innovants.
 Ses équipes s’appuient sur une expertise de pointe des technologies pour :
 
 ```
-● Améliorer les ventes de ses clients : marketing digital & social, ecommerce, data
-marketing, UX et nouveaux usages.
-● Renforcer leur performance interne : conception de socles technologiques, Internet,
-Intranet, conseil et solutions Big Data, solutions mobiles.
+    ● Améliorer les ventes de ses clients : marketing digital & social, ecommerce, data
+    marketing, UX et nouveaux usages.
+    ● Renforcer leur performance interne : conception de socles technologiques, Internet,
+    Intranet, conseil et solutions Big Data, solutions mobiles.
 ```
 **Chiffres Clés de SQLI**<br />
 
-● 60% de clients Offshore<br />
-● 22 années d'existence<br />
-● 18 ans d'expérience des projets e-business<br />
-● 50% du chiffre d'affaires au forfait<br />
-● 2000 collaborateurs<br />
-● Cotée au nouveau marché depuis juillet 2000
+    ● 60% de clients Offshore<br />
+    ● 22 années d'existence<br />
+    ● 18 ans d'expérience des projets e-business<br />
+    ● 50% du chiffre d'affaires au forfait<br />
+    ● 2000 collaborateurs<br />
+    ● Cotée au nouveau marché depuis juillet 2000
 
 
 **La répartition du groupe SQLI**
@@ -163,11 +163,11 @@ Le challenge consiste à réaliser une application pour la gestion des ressource
 La mise en place de ce projet répond à trois enjeux stratégiques majeurs pour le groupe SQLI:
 
 ```
-● Offrir à ses collaborateurs la possibilité de gérer leur carrière.
-● Homogénéiser les meilleures pratiques au sein des agences, pour renforcer la qualité des
-équipes au niveau individuel et collectif.
-● Faire du management des Ressources Humaines un critère de différenciation afin d’attirer
-les meilleurs candidats et fidéliser ses collaborateurs
+    ● Offrir à ses collaborateurs la possibilité de gérer leur carrière.
+    ● Homogénéiser les meilleures pratiques au sein des agences, pour renforcer la qualité des
+    équipes au niveau individuel et collectif.
+    ● Faire du management des Ressources Humaines un critère de différenciation afin d’attirer
+    les meilleurs candidats et fidéliser ses collaborateurs
 ```
 
 # Analyse fonctionnelle, conception et choix des technologies
@@ -179,84 +179,84 @@ Ayant travaillé sur ce projet au cours de mon stage, j’ai eu l’occasion d�
 outils de développements dont voici la liste :
 
 ```
-● IDEA IntelliJ
-La partie back-end en java est développée sur l’IDE Intellij Idea, cet IDE a été choisi
-parce qu’il intègre des outils de gestion Git, des outils de gestion Maven et qu’il supporte
-le framework Spring Boot.
+    ● IDEA IntelliJ
+    La partie back-end en java est développée sur l’IDE Intellij Idea, cet IDE a été choisi
+    parce qu’il intègre des outils de gestion Git, des outils de gestion Maven et qu’il supporte
+    le framework Spring Boot.
 ```
 ```
-● Microsoft Visual Studio Code
-Un IDE que pour le développement du module Web App. Il s’agit d’un éditeur de code
-supportant les langages de programmation Web, comme l’HTML, le CSS, le Javascript et
-le TypeScript.
+    ● Microsoft Visual Studio Code
+    Un IDE que pour le développement du module Web App. Il s’agit d’un éditeur de code
+    supportant les langages de programmation Web, comme l’HTML, le CSS, le Javascript et
+    le TypeScript.
 ```
 ```
-● Postman
-Cet outil ma permet de tester les web services ainsi créés. On peut choisir le type de
-requête HTTP, les données à envoyer et tester la requête avec un affichage du résultat qui
-en découle. Cet outil garde également en mémoire l’historique des requêtes testées.
+    ● Postman
+    Cet outil ma permet de tester les web services ainsi créés. On peut choisir le type de
+    requête HTTP, les données à envoyer et tester la requête avec un affichage du résultat qui
+    en découle. Cet outil garde également en mémoire l’historique des requêtes testées.
 ```
 ```
-● Google Chrome DevTools
-U n ensemble d'outils de création et de débogage desites Web intégrés à Google Chrome
-dans ce projet ces outils sont utilisés pour surveiller les requêtes XHR et la console
-JavaScript (aider à trouver les erreurs)
+    ● Google Chrome DevTools
+    U n ensemble d'outils de création et de débogage desites Web intégrés à Google Chrome
+    dans ce projet ces outils sont utilisés pour surveiller les requêtes XHR et la console
+    JavaScript (aider à trouver les erreurs)
 ```
 
 ```
-● Angular CLI
-Une Command Line Interface (interface en ligne de commande, en français) développée
-par les équipes d'Angular même. Cette CLI ma faciliter la création des projets dans
-lesquels la CLI pourra ajouter des fichiers et plus exactement des entités, des interfaces et
-des composants d’Angular.
+    ● Angular CLI
+    Une Command Line Interface (interface en ligne de commande, en français) développée
+    par les équipes d'Angular même. Cette CLI ma faciliter la création des projets dans
+    lesquels la CLI pourra ajouter des fichiers et plus exactement des entités, des interfaces et
+    des composants d’Angular.
 ```
 **Technologies web / Front-end**
 Dans cette partie les différentes technologies utilisées sur le projet sont présentées.
 
 ```
-● AngularJS
-Un framework développé par Google. Je l’utilise pour le
-développement de la couche présentation. Il utilise le modèle MVVM
-(Modèle-Vue-Vue-Modèle) et ma permet, en complément du HTML, de créer des pages
-dynamiques.
+    ● AngularJS
+    Un framework développé par Google. Je l’utilise pour le
+    développement de la couche présentation. Il utilise le modèle MVVM
+    (Modèle-Vue-Vue-Modèle) et ma permet, en complément du HTML, de créer des pages
+    dynamiques.
 ```
 **Technologies web / Back-end**
 
 ```
-● Lombok
-Lombok est une librairie Java s’intégrant automatiquement à un environnement de
-développement et autres outils de développement afin d’améliorer l’expérience de
-développement du programmeur Java. Cet outil évite au programmeur de coder les
-différentes méthodes d’accès, de comparaison, d'écriture et autres méthodes triviales.
+    ● Lombok
+    Lombok est une librairie Java s’intégrant automatiquement à un environnement de
+    développement et autres outils de développement afin d’améliorer l’expérience de
+    développement du programmeur Java. Cet outil évite au programmeur de coder les
+    différentes méthodes d’accès, de comparaison, d'écriture et autres méthodes triviales.
 
-● JPA
-(Java Persistence API) est un standard de la plateforme Java EE gérant la persistance des
-données. Il ma permet la gestion de correspondance entre des objets Java (entity) et une
-base de données.
+    ● JPA
+    (Java Persistence API) est un standard de la plateforme Java EE gérant la persistance des
+    données. Il ma permet la gestion de correspondance entre des objets Java (entity) et une
+    base de données.
 
-● PostgresSQL
-Un système de base de données. C’est un outil libre qui se base sur le langage SQL. Je
-l’ai utilisé car c’est sur ce système que sont stockées les données de l’entreprise SQLI.
+    ● PostgresSQL
+    Un système de base de données. C’est un outil libre qui se base sur le langage SQL. Je
+    l’ai utilisé car c’est sur ce système que sont stockées les données de l’entreprise SQLI.
 
-● Spring Boot
-Un framework qui ma permet la mise en place d’application Spring rapidement et
-facilement. Il se base sur le Framework Spring et permet de s’affranchir de la plupart des
-configurations de celui-ci à mettre en place pour créer une application.
+    ● Spring Boot
+    Un framework qui ma permet la mise en place d’application Spring rapidement et
+    facilement. Il se base sur le Framework Spring et permet de s’affranchir de la plupart des
+    configurations de celui-ci à mettre en place pour créer une application.
 
-● Java 8
-La dernière version de Java offre notamment la possibilité d’utiliser des lambda
-expressions, une nouvelle API de gestion de dates et heures ainsi que l'utilisation des
-“Optionals” qui permettent une meilleure gestion des références null.
+    ● Java 8
+    La dernière version de Java offre notamment la possibilité d’utiliser des lambda
+    expressions, une nouvelle API de gestion de dates et heures ainsi que l'utilisation des
+    “Optionals” qui permettent une meilleure gestion des références null.
 
-● Spring Web MVC
-Permet de construire des applications Web en Java. Comme son nom le suggère, il utilise
-le principe du Modèle/Vue/Contrôleur (MVC) en association avec le modèle IoC
-(Inversion of Control) du Spring Framework.
+    ● Spring Web MVC
+    Permet de construire des applications Web en Java. Comme son nom le suggère, il utilise
+    le principe du Modèle/Vue/Contrôleur (MVC) en association avec le modèle IoC
+    (Inversion of Control) du Spring Framework.
 
-● Maven
-Maven est un outil de construction de projets open source développé par la fondation
-Apache, initialement pour les besoins du projet Jakarta Turbine. Il ma permet de faciliter
-et d'automatiser certaines tâches de la gestion d'un projet Java comme les dépendances.
+    ● Maven
+    Maven est un outil de construction de projets open source développé par la fondation
+    Apache, initialement pour les besoins du projet Jakarta Turbine. Il ma permet de faciliter
+    et d'automatiser certaines tâches de la gestion d'un projet Java comme les dépendances.
 ```
 
 
