@@ -303,7 +303,7 @@ applications, interactions entre objets)
 d’une couche n’affectent pas la façon dont elle est utilisée par la couche supérieure.
 ```
 
-![spring](https://imgur.com/a/Jq1r3wa)
+![spr](https://imgur.com/a/Jq1r3wa)
 
 Dans cette structuration, chaque couche ne communique qu’avec la couche inférieure et elles
 sont liées par des interfaces :
