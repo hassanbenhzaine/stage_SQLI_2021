@@ -113,19 +113,21 @@ de dispositifs innovants.
 Ses équipes s’appuient sur une expertise de pointe des technologies pour :
 
 ```
-    ● Améliorer les ventes de ses clients : marketing digital & social, ecommerce, data
-    marketing, UX et nouveaux usages.
-    ● Renforcer leur performance interne : conception de socles technologiques, Internet,
-    Intranet, conseil et solutions Big Data, solutions mobiles.
+● Améliorer les ventes de ses clients : marketing digital & social, ecommerce, data
+marketing, UX et nouveaux usages.
+● Renforcer leur performance interne : conception de socles technologiques, Internet,
+Intranet, conseil et solutions Big Data, solutions mobiles.
 ```
 **Chiffres Clés de SQLI**<br />
 
-    ● 60% de clients Offshore<br />
-    ● 22 années d'existence<br />
-    ● 18 ans d'expérience des projets e-business<br />
-    ● 50% du chiffre d'affaires au forfait<br />
-    ● 2000 collaborateurs<br />
-    ● Cotée au nouveau marché depuis juillet 2000
+● 60% de clients Offshore<br />
+● 22 années d'existence<br />
+● 18 ans d'expérience des projets e-business<br />
+● 50% du chiffre d'affaires au forfait<br />
+● 2000 collaborateurs<br />
+● Cotée au nouveau marché depuis juillet 2000
+
+![sqli](https://i.imgur.com/Ma3BoVi.png)
 
 
 **La répartition du groupe SQLI**
@@ -301,6 +303,8 @@ applications, interactions entre objets)
 d’une couche n’affectent pas la façon dont elle est utilisée par la couche supérieure.
 ```
 
+![spring](https://imgur.com/a/Jq1r3wa)
+
 Dans cette structuration, chaque couche ne communique qu’avec la couche inférieure et elles
 sont liées par des interfaces :
 
@@ -442,7 +446,7 @@ Figure 8: gestion des collaborateurs
 
 **1- AngularJS**
 
-**Le concept de la route**
+**Le concept de la route**<br>
 AngularJS encourage les applications « single page », les routes permettent malgré tout de créer
 des URL qui sont « user friendly », l’utilisateur peut ainsi instantanément savoir sur quelle page
 il se trouve en se référant à l’URL. Plutôt que d’avoir un URL constant du type :
@@ -456,14 +460,14 @@ Enfin, les routes permettent de définir un contrôleur propre à chaque page, c
 contrôleurs volumineux en ligne de codes et permet de séparer les tâches en fonction de la route
 sur laquelle l’utilisateur se trouve.
 
-**Le concept de service**
+**Le concept de service**<br>
 Le développeur peut créer ses propres services et les appeler dès que nécessaire, comme il le
 ferait pour des fonctions JavaScript. Ceci s’avère très utile pour des tâches redondantes à
 plusieurs contrôleurs. En effet, avec les routes, les contrôleurs sont séparés, un service sera donc
 plus efficace que de copier/coller la fonction que l’on a créé dans un contrôleur précédent. Un
 service peut être considéré comme une fonction globale.
 
-**Le service $http**
+**Le service $http**<br>
 Le Framework met à disposition le service $http qui permet un accès serveur qui engendre une
 réponse de type success si la requête a abouti ou erreur si c’est le contraire, comme en AJAX. Le
 service $http permet de créer un client RESTful et met donc à disposition les méthodes REST, à
@@ -479,7 +483,7 @@ savoir :
 Ce sont les méthodes les plus utilisées. Grâce à ce service, les applications peuvent mettre en
 place un CRUD complet avec un serveur distant.
 
-**Les directives**
+**Les directives**<br>
 Les directives permettent d’attacher des comportements spécifiques à des éléments HTML de
 notre page. Concrètement, cela ressemble un peu à des listeners en Java pour rendre notre page
 interactive.
@@ -489,8 +493,7 @@ développer mon prototype d’application de gestion développé avec AngularJS
 
 **2 - Spring Boot**
 
-**L'auto-configuration**
-
+**L'auto-configuration**<br>
 Cette fonctionnalité est la plus importante de Spring Boot. Elle permet de configurer
 automatiquement votre application à partir des _JAR_ trouvés dans votre Classpath. En d'autres
 termes, si vous avez importé des dépendances, Spring Boot ira consulter cette liste puis produira
@@ -505,8 +508,7 @@ Spring MVC. Normalement, vous devez créer les fichiers de configuration suivant
 ● persitence.xml
 ```
 
-**Le concept des Annotations**
-
+**Le concept des Annotations**<br>
 Au cœur de Spring Boot se trouvent les annotations qui servent à simplifier la tâche au
 développeur. Pour créer un contrôleur, il suffit de créer une classe et de l’annoter
 @RestController et de lui affecter un point d’accès. Chacune des méthodes aura l’annotation
@@ -516,8 +518,7 @@ HTTP lui correspond.
 Ces annotations permettent de simplifier le code et de le rendre plus lisible. Le framework
 s’occupe de démarrer le serveur web et de rediriger les requêtes aux méthodes concernées.
 
-**Le concept d’Autowiring**
-
+**Le concept d’Autowiring**<br>
 Le principe d’autowiring est un autre concept important dans Spring Boot. Simplement en
 ajoutant l’annotation @Autowired au constructeur, Spring s’occupera d’instancier la classe
 directement en injectant les dépendances décrites dans les paramètres du constructeur, par
