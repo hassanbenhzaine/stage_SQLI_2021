@@ -1,8 +1,6 @@
 # Rapport de projet de fin d'année
 
-# Développement d’une application interne de gestion des ressources humaines
-
-# avec Spring Boot / AngularJS
+# Développement d’une application interne de gestion des ressources humaines avec Spring Boot / AngularJS
 
 Présenté par : Hassan Benhzaine
 
@@ -18,7 +16,7 @@ Stage effectué entre le 01/09/2021 et 29/10/
 
 # Sommaire
 
-# Chapitre 1: Introduction
+**2 Chapitre 1: Introduction**
 
 ```
 1 - Présentation du stage
@@ -27,12 +25,12 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ● Chiffres Clés de SQLI
 ● La répartition du groupe SQLI
 ```
-# Chapitre 2: Problématique
+**2 Chapitre 2: Problématique**
 
 ```
 1 - Description de la problématique à traiter
 ```
-# Chapitre 3: Analyse, conception et choix des technologies
+**2 Chapitre 3: Analyse, conception et choix des technologies**
 
 ```
 1 - Moyens techniques utilisés
@@ -53,9 +51,9 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ● Démonstration
 ```
 
-# Chapitre 4: Bilan des compétences acquis
+**2 Chapitre 4: Bilan des compétences acquis**
 
-# 1 - AngularJS
+**3 1 - AngularJS**
 
 ```
 ● Le concept de la route
@@ -63,14 +61,14 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ● Le service $http
 ● Les directives
 ```
-**2 - Spring Boot**
+**3 - Spring Boot**
 ● L'auto-configuration
 ● Annotations
 ● Autowiring
 
-# Chapitre 5: Webographie et Bibliographie
+**2 Chapitre 5: Webographie et Bibliographie**
 
-# Chapitre 6: Remerciements
+**2 Chapitre 6: Remerciements**
 
 
 # Introduction
