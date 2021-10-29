@@ -4,9 +4,9 @@
 
 Présenté par : Hassan Benhzaine
 
-                                                    Entreprise : SQLI Rabat
+Entreprise : SQLI Rabat
 
-Responsable du stage : Mr. Hicham BENGARAI
+```Responsable du stage : Mr. Hicham BENGARAI```
 Encadré par : Mr. Adnan Ait El Fatmi
               Mr. Abdellatif Belhadj
 
