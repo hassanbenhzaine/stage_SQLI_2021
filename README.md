@@ -117,11 +117,11 @@ marketing, UX et nouveaux usages.
 Intranet, conseil et solutions Big Data, solutions mobiles.
 ```
 **Chiffres Clés de SQLI**
-● 60% de clients Offshore
-● 22 années d'existence
-● 18 ans d'expérience des projets e-business
-● 50% du chiffre d'affaires au forfait
-● 2000 collaborateurs
+● 60% de clients Offshore<br />
+● 22 années d'existence<br />
+● 18 ans d'expérience des projets e-business<br />
+● 50% du chiffre d'affaires au forfait<br />
+● 2000 collaborateurs<br />
 ● Cotée au nouveau marché depuis juillet 2000
 
 
