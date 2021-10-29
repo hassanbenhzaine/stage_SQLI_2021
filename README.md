@@ -116,7 +116,8 @@ marketing, UX et nouveaux usages.
 ● Renforcer leur performance interne : conception de socles technologiques, Internet,
 Intranet, conseil et solutions Big Data, solutions mobiles.
 ```
-**Chiffres Clés de SQLI**
+**Chiffres Clés de SQLI**<br />
+
 ● 60% de clients Offshore<br />
 ● 22 années d'existence<br />
 ● 18 ans d'expérience des projets e-business<br />
@@ -229,13 +230,11 @@ Lombok est une librairie Java s’intégrant automatiquement à un environnement
 développement et autres outils de développement afin d’améliorer l’expérience de
 développement du programmeur Java. Cet outil évite au programmeur de coder les
 différentes méthodes d’accès, de comparaison, d'écriture et autres méthodes triviales.
-```
-```
+
 ● JPA
 (Java Persistence API) est un standard de la plateforme Java EE gérant la persistance des
 données. Il ma permet la gestion de correspondance entre des objets Java (entity) et une
 base de données.
-```
 
 ● PostgresSQL
 Un système de base de données. C’est un outil libre qui se base sur le langage SQL. Je
@@ -260,6 +259,7 @@ le principe du Modèle/Vue/Contrôleur (MVC) en association avec le modèle IoC
 Maven est un outil de construction de projets open source développé par la fondation
 Apache, initialement pour les besoins du projet Jakarta Turbine. Il ma permet de faciliter
 et d'automatiser certaines tâches de la gestion d'un projet Java comme les dépendances.
+```
 
 
 # 2 - Analyse fonctionnelle et conception
