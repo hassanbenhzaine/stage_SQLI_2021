@@ -357,6 +357,7 @@ de la logique et de l’accès aux données en accentuant les principes de bindi
 Pour vulgariser, la différence entre MVVM et MVC tient du fait que le MVVM, lui, se
 repose sur le DataBinding et l’évènementiel. Ça tombe bien, c’est ce que AngularJS est!
 
+![mvc](https://i.imgur.com/6SThsPO.png)
 
 La vue est couplée aux données via du DataBinding et invoque les méthodes du ViewModel.
 
