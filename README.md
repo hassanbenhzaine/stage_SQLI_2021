@@ -1,3 +1,5 @@
+![logo](https://i.imgur.com/MIl4SDH.png)
+
 # Rapport de projet de fin d'année
 
 # Développement d’une application interne de gestion des ressources humaines avec Spring Boot / AngularJS
@@ -322,9 +324,11 @@ qui permettent d’accéder à ces données (les DAOs: Data Access Object).
 Le Pattern vient avec l'idée d'encapsulé dans une couche spécifique tous les mécanismes d'accès
 aux entrepôts persistants de données :
 
+```
 ⦁ Bases de données relationnelles
 ⦁ Système de fichiers local ou distant
 ⦁ Requêtes XML-RPC (SOAP ou REST) sur des systèmes tiers
+```
 
 Ce pattern concerne donc la Couche Persistance.
 
@@ -370,12 +374,10 @@ problématiques présentées.
 ● Formation (tâche 1) 3 semaines
 Cette tâche a pour but de me former aux technologies et outils utilisés. L’objectif est donc
 de développer une petite application en AngularJS et Spring Boot.
-```
-```
+
 La formation à Java, Spring Boot et AngularJS se traduit par de la lecture de
 documentation et tutoriels pour comprendre le principe de fonctionnement.
-```
-```
+
 A la suite de ces formations, la conception et le réalisation de l’application a commencé à
 partir des concepts étudiés.
 ```
@@ -389,8 +391,7 @@ en diagramme de classes.
 ● Réalisation du projet (tâche 3) un mois
 La réalisation est la tâche la plus importante après celle de la conception. Le choix des
 outils de développement influence énormément la flexibilité du produit à réaliser.
-```
-```
+
 Cette phase consiste à transformer le modèle conceptuel établi précédemment en des
 composants logiciels formant notre système.
 ```
