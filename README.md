@@ -55,15 +55,17 @@ Stage effectué entre le 01/09/2021 et 29/10/
 **1 - AngularJS**
 
 ```
-    ● Le concept de la route
-    ● Le concept de service
-    ● Le service $http
-    ● Les directives
+● Le concept de la route
+● Le concept de service
+● Le service $http
+● Les directives
 ```
 **2 - Spring Boot**
-    ● L'auto-configuration
-    ● Annotations
-    ● Autowiring
+```
+● L'auto-configuration
+● Annotations
+● Autowiring
+```
 
 **Chapitre 5: Webographie et Bibliographie**
 
@@ -97,7 +99,7 @@ Le projet n'était pas terminé au moment de l'écriture de ce rapport, le trava
 l'état actuel de l'avancement du projet.
 
 
-# 2- Présentation de l’entreprise d’accueil
+**2- Présentation de l’entreprise d’accueil**
 
 Ce chapitre décrit brièvement l’organisme d’accueil. Il apporte des précisions sur ses différentes
 spécialités ainsi que l’ensemble de ses sites.
