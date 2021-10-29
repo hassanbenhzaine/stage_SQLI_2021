@@ -6,16 +6,18 @@ Présenté par : Hassan Benhzaine
 
 Entreprise : SQLI Rabat
 
-```Responsable du stage : Mr. Hicham BENGARAI```
+```
+Responsable du stage : Mr. Hicham BENGARAI
 Encadré par : Mr. Adnan Ait El Fatmi
               Mr. Abdellatif Belhadj
+```
 
 Stage effectué entre le 01/09/2021 et 29/10/
 
 
 # Sommaire
 
-**2 Chapitre 1: Introduction**
+**Chapitre 1: Introduction**
 
 ```
 1 - Présentation du stage
@@ -24,35 +26,33 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ● Chiffres Clés de SQLI
 ● La répartition du groupe SQLI
 ```
-**2 Chapitre 2: Problématique**
+**Chapitre 2: Problématique**
 
 ```
 1 - Description de la problématique à traiter
 ```
-**2 Chapitre 3: Analyse, conception et choix des technologies**
+**Chapitre 3: Analyse, conception et choix des technologies**
 
 ```
 1 - Moyens techniques utilisés
 ● Outils de développement
 ● Technologies web / Front-end
 ● Technologies web / Back-end
-```
-```
+
 2 - Analyse fonctionnelle et conception
 ● Diagramme de classes
 ● Architecture de l’application (Back-End)
 ● Design Pattern
 ● L’architecture de l’application (Front-end)
-```
-```
+
 3 - Gestion et mise en œuvre du projet
 ● Tâches du projet
 ● Démonstration
 ```
 
-**2 Chapitre 4: Bilan des compétences acquis**
+**Chapitre 4: Bilan des compétences acquis**
 
-**3 1 - AngularJS**
+**1 - AngularJS**
 
 ```
 ● Le concept de la route
@@ -60,14 +60,14 @@ Stage effectué entre le 01/09/2021 et 29/10/
 ● Le service $http
 ● Les directives
 ```
-**3 - Spring Boot**
+**2 - Spring Boot**
 ● L'auto-configuration
 ● Annotations
 ● Autowiring
 
-**2 Chapitre 5: Webographie et Bibliographie**
+**Chapitre 5: Webographie et Bibliographie**
 
-**2 Chapitre 6: Remerciements**
+**Chapitre 6: Remerciements**
 
 
 # Introduction
